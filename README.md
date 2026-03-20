@@ -9,63 +9,63 @@ The modern knowledge landscape is fragmented. Millions of open-access PDFs exist
 
 - **Centralizing Access: A unified interface to discover open-access PDFs** 
 
-Simplifying Legality: Clear guidance on what you can and cannot do
+- **Simplifying Legality: Clear guidance on what you can and cannot do**
 
-Empowering Users: Educational resources on copyright and fair use
+- **Empowering Users: Educational resources on copyright and fair use**
 
-Personalizing Experience: Custom profiles tailored to your interests
+- **Personalizing Experience: Custom profiles tailored to your interests**
 
 ## ✨ Key Features
 ## 🔍 Smart Discovery
-Advanced search across multiple open-access repositories
+-**Advanced search across multiple open-access repositories**
 
-Filter by discipline, publication date, author, institution, and license type
+- **Filter by discipline, publication date, author, institution, and license type**
 
-Semantic search that understands context, not just keywords
+- **Semantic search that understands context, not just keywords**
 
 ## 🛡️ Legal Safeguards
-License Transparency: Every PDF displays its specific open-access license (CC BY, CC BY-SA, etc.)
+- **License Transparency: Every PDF displays its specific open-access license (CC BY, CC BY-SA, etc.)**
 
-Usage Guidelines: Clear, plain-language explanations of what each license permits
+- **Usage Guidelines: Clear, plain-language explanations of what each license permits**
 
-Attribution Helpers: Automatic citation generation in multiple formats (APA, MLA, Chicago, etc.)
+- **Attribution Helpers: Automatic citation generation in multiple formats (APA, MLA, Chicago, etc.)**
 
-Risk Warnings: Alerts for potentially restricted content
+- **Risk Warnings: Alerts for potentially restricted content**
 
 ## 👤 Personalized Profiles
-Save favorite papers and searches
+- **Save favorite papers and searches**
 
-Create curated collections for research projects
+- **Create curated collections for research projects**
 
-Receive recommendations based on reading history
+- **Receive recommendations based on reading history**
 
-Set content preferences and discipline interests
+- **Set content preferences and discipline interests**
 
-Track your reading and download history
+- **Track your reading and download history**
 
 ## 📚 Educational Resources
-Copyright Basics: Understand the fundamentals of intellectual property
+- **Copyright Basics: Understand the fundamentals of intellectual property**
 
-Fair Use Guide: Learn when and how you can use copyrighted materials
+- **Fair Use Guide: Learn when and how you can use copyrighted materials**
 
-Open Access Explained: Demystifying different open-access models
+- **Open Access Explained: Demystifying different open-access models**
 
-Interactive Tutorials: Step-by-step guides to legal PDF usage
+- **Interactive Tutorials: Step-by-step guides to legal PDF usage**
 
-FAQ Section: Answers to common questions about PDF access and rights
+- **FAQ Section: Answers to common questions about PDF access and rights**
 
 ## 🌐 Community Features
-Share collections with colleagues
+- **Share collections with colleagues**
 
-Annotate and comment on papers
+- **Annotate and comment on papers**
 
-Rate and review resources
+- **Rate and review resources**
 
-Collaborative research boards
+- **Collaborative research boards**
 
 ## 📱 Multi-Platform Access
-Responsive web design for desktop and mobile
+- **Responsive web design for desktop and mobile**
 
-Browser extension for one-click access
+- **Browser extension for one-click access**
 
-API access for developers and institutions
+- **API access for developers and institutions**
