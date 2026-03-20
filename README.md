@@ -7,7 +7,7 @@ Input-Output is a platform designed to democratize access to open-access PDFs an
 ## Why Input-Output?
 The modern knowledge landscape is fragmented. Millions of open-access PDFs exist across countless repositories, institutional websites, and academic databases—but finding, accessing, and understanding your rights to use them remains challenging. Input-Output solves this by:
 
-Centralizing Access: A unified interface to discover open-access PDFs
+- **Centralizing Access: A unified interface to discover open-access PDFs** 
 
 Simplifying Legality: Clear guidance on what you can and cannot do
 
