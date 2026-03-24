@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" width="480" height="120">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="arrowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c084fc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38bdf8;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#a78bfa" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background pill -->
+  <rect x="0" y="0" width="480" height="120" rx="18" ry="18" fill="url(#bgGrad)"/>
+
+  <!-- Outer ring -->
+  <circle cx="60" cy="60" r="44" fill="none" stroke="url(#accentGrad)" stroke-width="2" opacity="0.6"/>
+  <!-- Inner circle -->
+  <circle cx="60" cy="60" r="34" fill="#1e1b4b" filter="url(#shadow)"/>
+
+  <!-- IO arrows icon -->
+  <!-- Input arrow (left → center) -->
+  <line x1="28" y1="52" x2="52" y2="52" stroke="url(#arrowGrad)" stroke-width="3.5" stroke-linecap="round" filter="url(#glow)"/>
+  <polygon points="52,46 64,52 52,58" fill="url(#arrowGrad)" filter="url(#glow)"/>
+
+  <!-- Output arrow (center → right) -->
+  <line x1="68" y1="68" x2="92" y2="68" stroke="url(#arrowGrad)" stroke-width="3.5" stroke-linecap="round" filter="url(#glow)"/>
+  <polygon points="56,62 68,68 56,74" fill="url(#arrowGrad)" filter="url(#glow)"/>
+
+  <!-- Dot divider -->
+  <circle cx="60" cy="60" r="3.5" fill="url(#accentGrad)" filter="url(#glow)"/>
+
+  <!-- Main title -->
+  <text x="120" y="52" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="32" font-weight="800" letter-spacing="-0.5"
+        fill="url(#accentGrad)" filter="url(#glow)">Input-Output</text>
+
+  <!-- Subtitle -->
+  <text x="121" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="13" font-weight="400" letter-spacing="1.5"
+        fill="#94a3b8">Open-Access PDF Intelligence Platform</text>
+
+  <!-- Divider line -->
+  <line x1="120" y1="86" x2="460" y2="86" stroke="url(#accentGrad)" stroke-width="1" opacity="0.3"/>
+
+  <!-- Company name -->
+  <text x="121" y="103" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="11" font-weight="600" letter-spacing="2"
+        fill="#c084fc" opacity="0.85">🍒 CHERRY COMPUTER LTD.</text>
+</svg>
